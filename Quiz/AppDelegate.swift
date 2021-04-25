@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Quiz
-//
-//  Created by Jack Hou on 4/25/21.
-//  Copyright © 2021 Ziggy. All rights reserved.
-//
 
 import UIKit
 
